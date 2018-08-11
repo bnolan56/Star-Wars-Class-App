@@ -40,6 +40,7 @@ let characters = [
 ];
 
 // Routes
+
 // =============================================================
 
 // Basic route that sends the user first to the AJAX Page
